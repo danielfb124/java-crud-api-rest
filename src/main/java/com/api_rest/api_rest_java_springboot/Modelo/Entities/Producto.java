@@ -1,4 +1,4 @@
-package com.api_rest.api_rest_java_springboot.Entities;
+package com.api_rest.api_rest_java_springboot.Modelo.Entities;
 
 
 import jakarta.persistence.Entity;

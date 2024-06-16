@@ -2,8 +2,8 @@ package com.api_rest.api_rest_java_springboot.Controllers;
 
 import org.springframework.web.bind.annotation.RestController;
 
-import com.api_rest.api_rest_java_springboot.Entities.Producto;
-import com.api_rest.api_rest_java_springboot.Repositories.ProductoRepository;
+import com.api_rest.api_rest_java_springboot.Modelo.Entities.Producto;
+import com.api_rest.api_rest_java_springboot.Modelo.Repository.ProductoRepository;
 
 import java.util.List;
 
